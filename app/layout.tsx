@@ -24,6 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <script src="https://t.contentsquare.net/uxa/ca9c3b65ddfbe.js"></script>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased text-red-600`}
       >
